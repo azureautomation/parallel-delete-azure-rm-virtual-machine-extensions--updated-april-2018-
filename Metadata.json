@@ -1,0 +1,20 @@
+{
+    "Author": "Ben Wilkinson",
+    "ContentSize": 2416,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/parallel-delete-azure-rm-virtual-machine-extensions-(updated-april-2018)/master/Remove-AzureRMVMExtensionParallel.ps1",
+    "DownloadCount": 729,
+    "Id": "Parallel-Delete-Azure-RM-11f76767",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 330,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2017-12-12T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Parallel Delete Virtual Machines Extensions.Extensions are used widely in Azure for things such as:- Antimalware- DependencyAgent- Script Extension- DSC Extension- OMS / Monitoring Extension- VM Diagnostics Extension- Backup ExtensionIf there is an error on the extension or you n",
+    "Title": "Parallel Delete Azure RM Virtual Machine Extensions (updated April 2018)",
+    "UpdatedDate": "2018-4-7T00:00:00",
+    "Url": "https://github.com/azureautomation/parallel-delete-azure-rm-virtual-machine-extensions-(updated-april-2018)",
+    "UserTags": "VM Extension, Azure VM Extensions, Script Extension"
+}
